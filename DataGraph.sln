@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGraph", "Library\DataGraph.csproj", "{54FF3169-7A6C-4D04-8623-D0AA1094DD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGraphTest", "Test\DataGraphTest.csproj", "{AC10EEA0-5097-4215-911B-3D10BA76B308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FF3169-7A6C-4D04-8623-D0AA1094DD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FF3169-7A6C-4D04-8623-D0AA1094DD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FF3169-7A6C-4D04-8623-D0AA1094DD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FF3169-7A6C-4D04-8623-D0AA1094DD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC10EEA0-5097-4215-911B-3D10BA76B308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC10EEA0-5097-4215-911B-3D10BA76B308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC10EEA0-5097-4215-911B-3D10BA76B308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC10EEA0-5097-4215-911B-3D10BA76B308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
